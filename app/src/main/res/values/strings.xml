@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="img">image</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="valid_book">Enter valid name of the book in the search bar</string>
+    <string name="search">Search</string>
+</resources>
